@@ -35,12 +35,11 @@ Now, run our server
   python manage.py runserver
 ```
 ## Screenshots
-
-![App Screenshot](file:///C:/Users/riddh/OneDrive/Pictures/Screenshots/Screenshot%202024-07-23%20104244.png)
-
+![django porta](https://github.com/user-attachments/assets/356f1527-a2db-48ec-9039-a771301b821d)
 
 
-![App Screenshot](file:///C:/Users/riddh/OneDrive/Pictures/Screenshots/Screenshot%202024-07-23%20104208.png)
+![Screenshot 2024-07-23 104208](https://github.com/user-attachments/assets/b58f6f87-0c86-4265-9e96-59ccfe2c2b75)
+
 
 
 
